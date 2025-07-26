@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSH.OfflineSync", "FSH.OfflineSync.csproj", "{9648E77E-CB3E-4006-ACAB-A6A8DA1CFD69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSH.OfflineSync.Tests", "..\FSH.OfflineSync.Tests\FSH.OfflineSync.Tests.csproj", "{910C3BDE-7D48-2331-7E7A-5454BDFD3903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9648E77E-CB3E-4006-ACAB-A6A8DA1CFD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9648E77E-CB3E-4006-ACAB-A6A8DA1CFD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9648E77E-CB3E-4006-ACAB-A6A8DA1CFD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910C3BDE-7D48-2331-7E7A-5454BDFD3903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910C3BDE-7D48-2331-7E7A-5454BDFD3903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910C3BDE-7D48-2331-7E7A-5454BDFD3903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910C3BDE-7D48-2331-7E7A-5454BDFD3903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

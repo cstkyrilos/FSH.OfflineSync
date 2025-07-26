@@ -1,5 +1,9 @@
 # FSH.OfflineSync
 
+![NuGet](https://img.shields.io/nuget/v/FSH.OfflineSync?style=flat-square)
+![Downloads](https://img.shields.io/nuget/dt/FSH.OfflineSync?style=flat-square)
+
+
 > 🔄 A plug-and-play offline sync library for **Blazor WebAssembly + FullStackHero** apps using `HttpClient`, `DelegatingHandler`, and `Blazor.Localstorage`.
 
 ---
